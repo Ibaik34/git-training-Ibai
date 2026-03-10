@@ -1,1 +1,1 @@
-Funcionalidad nueva desde una rama distinta en IntelliJ
+Funcionalidad nueva desde una rama distinta en IntelliJ buscando conflicto con merges
